@@ -1,0 +1,14 @@
+body {
+    padding: 0;
+    margin: 0;
+    color: #e0cfb8;
+    font-family: 'Exo 2', sans-serif;
+    background: #182d28;
+}
+
+nav {
+    background-color: dimgrey;
+    height: 50px;
+    margin: auto 0;
+}
+
