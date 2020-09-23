@@ -16,3 +16,10 @@ nav {
     font-size: 30px;
 }
 
+.title {
+    height: 70px;
+    margin: auto 0;
+    padding-top: 20px;
+    font-size: 60px;
+    text-align: center;
+}
