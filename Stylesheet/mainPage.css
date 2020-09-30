@@ -1,7 +1,20 @@
-body {
-    padding: 0;
-    margin: 0;
-    color: #e0cfb8;
-    font-family: 'Exo 2', sans-serif;
-    background: #182d28;
+.title {
+    height: 70px;
+    margin: auto 0;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-size: 60px;
+    text-align: center;
+}
+
+.content-container {
+    background-color: #6c9686;
+    max-width: 600px;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+p {
+    padding: 20px;
+    font-size: 15pt;
 }

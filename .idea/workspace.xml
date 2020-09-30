@@ -19,7 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b097f469-d4dd-4976-adb3-95034638796d" name="Default Changelist" comment="" />
+    <list default="true" id="b097f469-d4dd-4976-adb3-95034638796d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stylesheet/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Stylesheet/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stylesheet/mainPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/Stylesheet/mainPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/KAB.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/KAB.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/kunstwerken.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/kunstwerken.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/opdrachten.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/opdrachten.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +66,7 @@
       <updated>1600253242888</updated>
       <workItem from="1600253246350" duration="1533000" />
       <workItem from="1600857700806" duration="2498000" />
-      <workItem from="1601462234591" duration="787000" />
+      <workItem from="1601462234591" duration="1955000" />
     </task>
     <servers />
   </component>
