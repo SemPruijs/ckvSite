@@ -20,8 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b097f469-d4dd-4976-adb3-95034638796d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Stylesheet/KAB.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stylesheet/KAB.css" beforeDir="false" afterPath="$PROJECT_DIR$/Stylesheet/KAB.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stylesheet/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Stylesheet/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stylesheet/mainPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/Stylesheet/mainPage.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/KAB.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/KAB.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +68,7 @@
       <workItem from="1600253246350" duration="1533000" />
       <workItem from="1600857700806" duration="2498000" />
       <workItem from="1601462234591" duration="2194000" />
-      <workItem from="1601805198992" duration="1134000" />
+      <workItem from="1601805198992" duration="2202000" />
     </task>
     <servers />
   </component>
@@ -87,5 +89,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1601831968875">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1601831968875" />
   </component>
 </project>
