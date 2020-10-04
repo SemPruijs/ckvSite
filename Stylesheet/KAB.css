@@ -1,0 +1,9 @@
+.title {
+    height: 70px;
+    margin: auto 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 60px;
+    text-align: center;
+    background-color: rgba(81,69,78,0.84);
+}

@@ -20,13 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b097f469-d4dd-4976-adb3-95034638796d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Stylesheet/KAB.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stylesheet/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Stylesheet/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stylesheet/mainPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/Stylesheet/mainPage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/KAB.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/KAB.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/kunstwerken.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/kunstwerken.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/opdrachten.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/opdrachten.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,12 +33,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hadfGiMEYd5oR9xl1q5rSCf7BB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -66,7 +65,8 @@
       <updated>1600253242888</updated>
       <workItem from="1600253246350" duration="1533000" />
       <workItem from="1600857700806" duration="2498000" />
-      <workItem from="1601462234591" duration="1955000" />
+      <workItem from="1601462234591" duration="2194000" />
+      <workItem from="1601805198992" duration="1134000" />
     </task>
     <servers />
   </component>
@@ -84,5 +84,8 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
