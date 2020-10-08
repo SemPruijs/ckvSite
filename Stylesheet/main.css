@@ -18,6 +18,9 @@ nav {
 a {
     text-decoration: none;
     color: #e0cfb8;
+}
+
+.navBarLink {
     padding-right: 20px;
 }
 
@@ -27,4 +30,5 @@ a:hover {
 
 .ckvSiteLink {
     font-size: 30px;
+    padding-right: 20px;
 }
