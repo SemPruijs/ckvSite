@@ -19,9 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b097f469-d4dd-4976-adb3-95034638796d" name="Default Changelist" comment="Add opdrachten style sheet to KAB">
-      <change afterPath="$PROJECT_DIR$/Images/Mootboard.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/mootboard.png" beforeDir="false" />
+    <list default="true" id="b097f469-d4dd-4976-adb3-95034638796d" name="Default Changelist" comment="Fix the Mootboard.png color pallete bug">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/KAB.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/KAB.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/kunstwerken.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/kunstwerken.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +69,7 @@
       <workItem from="1601805198992" duration="2503000" />
       <workItem from="1602067031858" duration="5798000" />
       <workItem from="1602153608935" duration="838000" />
-      <workItem from="1603732744719" duration="837000" />
+      <workItem from="1603732744719" duration="1034000" />
     </task>
     <task id="LOCAL-00001" summary="Made the text size a bit bigger in the KAB.html page">
       <created>1602087174404</created>
@@ -105,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603733330522</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Fix the Mootboard.png color pallete bug">
+      <created>1603733613805</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603733613805</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,13 +138,14 @@
     <MESSAGE value="Set background color from the &quot;kunstwerken&quot; page to dark green" />
     <MESSAGE value="Change stylesheet link order" />
     <MESSAGE value="Add opdrachten style sheet to KAB" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add opdrachten style sheet to KAB" />
+    <MESSAGE value="Fix the Mootboard.png color pallete bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix the Mootboard.png color pallete bug" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="670" y="372" key="Vcs.Push.Dialog.v2" timestamp="1603733333042">
+    <state x="670" y="372" key="Vcs.Push.Dialog.v2" timestamp="1603733615017">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="670" y="372" key="Vcs.Push.Dialog.v2/0.1463.1280.777/0.23.2560.1417/-1440.-494.1440.2537@0.23.2560.1417" timestamp="1603733333042" />
+    <state x="670" y="372" key="Vcs.Push.Dialog.v2/0.1463.1280.777/0.23.2560.1417/-1440.-494.1440.2537@0.23.2560.1417" timestamp="1603733615017" />
     <state x="440" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1602153993668" />
     <state x="638" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602067181464">
       <screen x="0" y="23" width="1680" height="1027" />
