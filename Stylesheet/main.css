@@ -12,20 +12,23 @@ nav {
     padding-left: 30px;
     padding-top: 30px;
     padding-bottom: 10px;
-    font-size: 20px;
 }
 
 a {
     text-decoration: none;
     color: #e0cfb8;
+    font-size: 20px;
+    transition: 0.1s;
 }
 
 .navBarLink {
     padding-right: 20px;
+    transition: 0.1s;
 }
 
-a:hover {
+.navBarLink:hover {
     color: #ddbc91;
+    font-size: 25px;
 }
 
 .ckvSiteLink {

@@ -19,13 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b097f469-d4dd-4976-adb3-95034638796d" name="Default Changelist" comment="Add title to kunstwerken.html">
+    <list default="true" id="b097f469-d4dd-4976-adb3-95034638796d" name="Default Changelist" comment="Add title to all pages">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stylesheet/mainPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/Stylesheet/mainPage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/KAB.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/KAB.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/kunstwerken.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/kunstwerken.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/opdrachten.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/opdrachten.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stylesheet/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Stylesheet/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +69,7 @@
       <workItem from="1602067031858" duration="5798000" />
       <workItem from="1602153608935" duration="838000" />
       <workItem from="1603732744719" duration="1616000" />
-      <workItem from="1603818401749" duration="1138000" />
+      <workItem from="1603818401749" duration="1672000" />
     </task>
     <task id="LOCAL-00001" summary="Made the text size a bit bigger in the KAB.html page">
       <created>1602087174404</created>
@@ -138,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603819233536</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add title to all pages">
+      <created>1603819677172</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1603819677172</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,13 +171,14 @@
     <MESSAGE value="Make a &quot;Dat wil ik zien!&quot; button in the home page" />
     <MESSAGE value="Add title to index.html" />
     <MESSAGE value="Add title to kunstwerken.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add title to kunstwerken.html" />
+    <MESSAGE value="Add title to all pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add title to all pages" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="670" y="372" key="Vcs.Push.Dialog.v2" timestamp="1603819380145">
+    <state x="670" y="372" key="Vcs.Push.Dialog.v2" timestamp="1603819678458">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="670" y="372" key="Vcs.Push.Dialog.v2/0.1463.1280.777/0.23.2560.1417/-1440.-494.1440.2537@0.23.2560.1417" timestamp="1603819380145" />
+    <state x="670" y="372" key="Vcs.Push.Dialog.v2/0.1463.1280.777/0.23.2560.1417/-1440.-494.1440.2537@0.23.2560.1417" timestamp="1603819678458" />
     <state x="440" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1602153993668" />
     <state x="638" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602067181464">
       <screen x="0" y="23" width="1680" height="1027" />
