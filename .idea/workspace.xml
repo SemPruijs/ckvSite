@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b097f469-d4dd-4976-adb3-95034638796d" name="Default Changelist" comment="Fix the dark green background bug">
+    <list default="true" id="b097f469-d4dd-4976-adb3-95034638796d" name="Default Changelist" comment="Make a &quot;Dat wil ik zien!&quot; button in the home page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stylesheet/mainPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/Stylesheet/mainPage.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +69,7 @@
       <workItem from="1602067031858" duration="5798000" />
       <workItem from="1602153608935" duration="838000" />
       <workItem from="1603732744719" duration="1616000" />
-      <workItem from="1603818401749" duration="673000" />
+      <workItem from="1603818401749" duration="770000" />
     </task>
     <task id="LOCAL-00001" summary="Made the text size a bit bigger in the KAB.html page">
       <created>1602087174404</created>
@@ -121,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603733799936</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Make a &quot;Dat wil ik zien!&quot; button in the home page">
+      <created>1603819160132</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1603819160133</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,13 +154,14 @@
     <MESSAGE value="Add opdrachten style sheet to KAB" />
     <MESSAGE value="Fix the Mootboard.png color pallete bug" />
     <MESSAGE value="Fix the dark green background bug" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix the dark green background bug" />
+    <MESSAGE value="Make a &quot;Dat wil ik zien!&quot; button in the home page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Make a &quot;Dat wil ik zien!&quot; button in the home page" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="670" y="372" key="Vcs.Push.Dialog.v2" timestamp="1603733809208">
+    <state x="670" y="372" key="Vcs.Push.Dialog.v2" timestamp="1603819163058">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="670" y="372" key="Vcs.Push.Dialog.v2/0.1463.1280.777/0.23.2560.1417/-1440.-494.1440.2537@0.23.2560.1417" timestamp="1603733809208" />
+    <state x="670" y="372" key="Vcs.Push.Dialog.v2/0.1463.1280.777/0.23.2560.1417/-1440.-494.1440.2537@0.23.2560.1417" timestamp="1603819163058" />
     <state x="440" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1602153993668" />
     <state x="638" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602067181464">
       <screen x="0" y="23" width="1680" height="1027" />
