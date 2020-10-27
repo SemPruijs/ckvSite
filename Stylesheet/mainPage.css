@@ -26,5 +26,14 @@ p {
 .KAB-button-container {
     background-color: #6c9686;
     max-width: 150px;
-    margin: auto;
+    margin: 30px auto;
+    text-align: center;
+    padding: 15px;
+    border-radius: 20px;
+    font-size: 15pt;
+    transition: 0.2s;
+}
+
+.KAB-button-container:hover {
+    background-color: rgba(122, 106, 119, 0.84);
 }
